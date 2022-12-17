@@ -90,12 +90,12 @@ pipeline {
         }
         stage('Run DEV') {
             steps {
-              make docker-dev
+              sh 'make docker-dev'
             }
         }
         stage('Run PROD') {
             steps {
-              make docker-prod
+              sh 'make docker-prod'
             }
         }
     }
