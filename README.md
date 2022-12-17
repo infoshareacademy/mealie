@@ -91,6 +91,6 @@ Thanks to Linode for providing Hosting for the Demo, Beta, and Documentation sit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hay-kot
 [product-screenshot]: docs/docs/assets/img/home_screenshot.png
- 
+ widoczna zmiana
  
  
